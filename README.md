@@ -20,7 +20,7 @@
 ---
 
 ### 📊 Estatísticas do GitHub
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoPassone&show_icons=true&theme=tokyonight)
 
 ### 🔥 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoPassone&layout=compact&theme=tokyonight)
