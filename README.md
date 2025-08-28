@@ -1,26 +1,41 @@
-# 👋 Olá, eu sou o Gustavo!
+<!-- Banner animado -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=1ABC9C&center=true&vCenter=true&width=650&lines=Olá%2C+eu+sou+o+Gustavo!;Estudante+de+ADS;Desenvolvimento+Web+%7C+Banco+de+Dados" alt="Typing SVG" />
+</div>
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**, em busca de iniciar carreira como **programador júnior**.  
-💻 Atualmente estudando e desenvolvendo projetos com foco em **Desenvolvimento Web**.  
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Bem-vindo ao meu GitHub!
 
----
-
-### 🚀 Tecnologias que estudo
-- ✅ HTML  
-- ✅ CSS  
-- 📖 JavaScript (aprendendo)  
-- 📖 SQL (aprendendo)  
-
-### 🛠️ Tecnologias & Ferramentas
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=fff)
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**, em busca de iniciar carreira como **Programador Júnior**.  
+💻 Focado em desenvolvimento web e bancos de dados, sempre aprendendo e aplicando novos conhecimentos.  
 
 ---
 
-### 📊 Estatísticas do GitHub
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoPassone&show_icons=true&theme=tokyonight)
+## 🚀 Tecnologias & Ferramentas
 
-### 🔥 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoPassone&layout=compact&theme=tokyonight)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql" />
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  
+  ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoPassone&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoPassone&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌱 Sobre mim
+
+👨‍💻 Atualmente estudando HTML, CSS, JavaScript e SQL  
+🧠 Foco em aprender, evoluir e compartilhar conhecimento    
+🎯 Objetivo: atuar como Desenvolvedor Júnior em projetos reais
+
+
+---
+
+📌 Aqui você encontra meus estudos, projetos pessoais e experimentos em programação.  
