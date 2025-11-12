@@ -13,7 +13,7 @@
 ## 🚀 Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,python,nodejs,git,figma" />
 </div>
 
 ---
@@ -31,9 +31,8 @@
 
 ## 🌱 Sobre mim
 
-👨‍💻 Atualmente estudando HTML, CSS, JavaScript e SQL  
+👨‍💻 Atualmente estudando Node.js, Python e SQL  
 🧠 Foco em aprender, evoluir e compartilhar conhecimento    
-🎯 Objetivo: atuar como Desenvolvedor Júnior em projetos reais
 
 
 ---
